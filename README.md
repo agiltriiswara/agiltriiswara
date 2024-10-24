@@ -49,29 +49,20 @@ print("Bilangan terbesar adalah:", terbesar)
 -------------------------------------------------------------------------------------
 
 (FLOW CHART)
-[Mulai]
-    |
-    v
-[Input A, B, C]
-    |
-    v
-[Apakah A >= B dan A >= C?] ----> [Ya] ---> [Terbesar = A]
-    |                                    |
-   [Tidak]                              [Selesai]
-    |
-    v
-[Apakah B >= A dan B >= C?] ----> [Ya] ---> [Terbesar = B]
-    |                                    |
-   [Tidak]                              [Selesai]
-    |
-    v
-[Terbesar = C]
-    |
-    v
-[Tampilkan Terbesar]
-    |
-    v
-[Selamat Tinggal]
+
+   
+
+
+    
+    
+ ![FLOW CHART_page-0001](https://github.com/user-attachments/assets/bddb7995-63cf-4101-914f-6e3958ed5d80)
+
+    
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------
 DATA 1,2,3 dengan hasil bilangan terbesar
 <img width="851" alt="image" src="https://github.com/user-attachments/assets/09c130bd-122a-4b1c-b7e8-436761006bf2">
